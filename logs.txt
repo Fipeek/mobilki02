@@ -1,0 +1,56 @@
+Uruchomienie aplikacji:
+2022-10-25 20:40:25.623 10618-10618/com.example.mobile1 D/ZAD2: Funkcja-onCreate
+2022-10-25 20:40:25.627 10618-10618/com.example.mobile1 D/ZAD2: Funkcja-onStart
+2022-10-25 20:40:25.628 10618-10618/com.example.mobile1 D/ZAD2: Funkcja-onResume
+
+Kliknięcie przycisku cofnij:
+2022-10-25 20:33:12.768 9943-9943/com.example.mobile1 D/ZAD2: Funkcja-onPause
+2022-10-25 20:33:13.324 9943-9943/com.example.mobile1 D/ZAD2: Funkcja-onStop
+2022-10-25 20:33:13.326 9943-9943/com.example.mobile1 D/ZAD2: Funkcja-onDestroy
+
+Zminimalizowanie aplikacji przy pomocy przycisku home, bądź otworzenia listy ostatnio otworzonych aplikacji:
+2022-10-25 20:30:13.856 9785-9785/com.example.mobile1 D/ZAD2: Funkcja-onPause
+2022-10-25 20:30:14.438 9785-9785/com.example.mobile1 D/ZAD2: Funkcja-onStop
+
+Otworzenie wcześniej zminimalizowanej aplikacji(niezależnie jak została zminimalizowana):
+2022-10-25 20:30:35.194 9785-9785/com.example.mobile1 D/ZAD2: Funkcja-onStart
+2022-10-25 20:30:35.194 9785-9785/com.example.mobile1 D/ZAD2: Funkcja-onResume
+
+Zmiana orientacji, gdy aplikacja jest uruchomiona:
+2022-10-25 20:41:53.508 10666-10666/com.example.mobile1 D/ZAD2: Funkcja-onPause
+2022-10-25 20:41:53.509 10666-10666/com.example.mobile1 D/ZAD2: Funkcja-onStop
+2022-10-25 20:41:53.509 10666-10666/com.example.mobile1 D/ZAD2: Funkcja-onDestroy
+2022-10-25 20:41:53.569 10666-10666/com.example.mobile1 D/ZAD2: Funkcja-onCreate
+2022-10-25 20:41:53.572 10666-10666/com.example.mobile1 D/ZAD2: Funkcja-onStart
+2022-10-25 20:41:53.573 10666-10666/com.example.mobile1 D/ZAD2: Funkcja-onResume
+
+Zmiana orientacji, gdy aplikacja jest uruchomiona w tle, po czym otworzenie jej:
+2022-10-25 20:43:15.299 10749-10749/com.example.mobile1 D/ZAD2: Funkcja-onDestroy
+2022-10-25 20:43:15.362 10749-10749/com.example.mobile1 D/ZAD2: Funkcja-onCreate
+2022-10-25 20:43:15.367 10749-10749/com.example.mobile1 D/ZAD2: Funkcja-onStart
+2022-10-25 20:43:15.367 10749-10749/com.example.mobile1 D/ZAD2: Funkcja-onResume
+
+Zmiana orientacji po przejściu do kolejnego pytania (po zmianie orientacji pojawia się pierwsze pytanie):
+2022-10-25 20:55:31.077 10860-10860/com.example.mobile1 D/ZAD2: Funkcja-onPause
+2022-10-25 20:55:31.078 10860-10860/com.example.mobile1 D/ZAD2: Funkcja-onStop
+2022-10-25 20:55:31.081 10860-10860/com.example.mobile1 D/ZAD2: Funkcja-onDestroy
+2022-10-25 20:55:31.141 10860-10860/com.example.mobile1 D/ZAD2: Funkcja-onCreate
+2022-10-25 20:55:31.148 10860-10860/com.example.mobile1 D/ZAD2: Funkcja-onStart
+2022-10-25 20:55:31.149 10860-10860/com.example.mobile1 D/ZAD2: Funkcja-onResume
+
+Zmiana orientacji przy otwartej aplikacji z zapisywaniem na którym pytaniu się skończyło:
+2022-10-25 21:37:40.686 11709-11709/com.example.mobile1 D/ZAD2: Funkcja-onPause
+2022-10-25 21:37:40.689 11709-11709/com.example.mobile1 D/ZAD2: Funkcja-onStop
+2022-10-25 21:37:40.690 11709-11709/com.example.mobile1 D/ZAD2: Funkcja-onSaveInstanceState
+2022-10-25 21:37:40.691 11709-11709/com.example.mobile1 D/ZAD2: Funkcja-onDestroy
+2022-10-25 21:37:40.718 11709-11709/com.example.mobile1 D/ZAD2: Funkcja-onCreate
+2022-10-25 21:37:40.762 11709-11709/com.example.mobile1 D/ZAD2: Funkcja-onStart
+2022-10-25 21:37:40.763 11709-11709/com.example.mobile1 D/ZAD2: Funkcja-onResume
+
+
+
+
+
+
+
+
